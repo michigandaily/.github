@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is The Michigan Daily Web Team's GitHub organization. We are a team of student engineers, data journalists and designers. Learn more about the team at <https://michigandaily.github.io>.
+
 The Michigan Daily is a student-run newspaper that has served as the University of Michigan’s paper of record for more than 130 years. The Daily trains its staff in written and visual journalism, content creation, advertising and marketing, web development and other industries. Join us at <https://join.michigandaily.com>!
 
 <!--
